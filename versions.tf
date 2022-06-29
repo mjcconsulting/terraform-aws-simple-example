@@ -7,7 +7,7 @@ terraform {
       version = "~> 3.28.0"
     }
   }
-
+  /*
   cloud {
     organization = "mjcconsulting"
 
@@ -15,4 +15,5 @@ terraform {
       name = "simple-example-p"
     }
   }
+  */
 }
